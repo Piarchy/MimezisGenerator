@@ -1,2 +1,2 @@
 # MimezisGenerator
-Mimezis patteren generator with perlin noise
+<img src="https://github.com/Piarchy/MimezisGenerator/blob/main/mimezis.png" width:100%:>
